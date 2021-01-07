@@ -1,2 +1,2 @@
 # springcloud-config
-testtttttt
+test
